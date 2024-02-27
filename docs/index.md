@@ -18,3 +18,21 @@ F(Validação do Schema de Saída) --> |Falha| H(Alerta de Erro)
 ## Contrato de dados
 
 ::: app.schema.ProdutoSchema
+
+## Transformações
+
+## Configura variáveis
+
+::: app.etl.load_settings
+
+## Ler o Banco SQL
+
+::: app.etl.extrair_do_sql
+
+## Transformar os KPIs
+
+::: app.etl.transformar
+
+## Salvar no DuckDB
+
+::: app.etl.load_to_duckdb

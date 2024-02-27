@@ -1,6 +1,6 @@
 # workshop_02_aovivo
 
-Visite minha documentacao
+Visite minha documentação
 
 [![image](/pic/print.png)](https://Joaobalico.github.io/workshop_02_aovivo/)
 
