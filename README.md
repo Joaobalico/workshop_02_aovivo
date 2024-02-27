@@ -41,7 +41,7 @@ poetry run task test
 6. Execute o comando para ver a documentação do projeto:
 
 ```bash
-poetry run task test
+poetry run task doc
 ```
 
 7. Execute o comando de execucão da pipeline para realizar a ETL:
